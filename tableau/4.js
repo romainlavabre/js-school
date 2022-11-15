@@ -17,7 +17,7 @@ for (; i < myArray.length; i++) {
 
 try {
     if (result !== i) {
-        console.log("ERREUR: Vous vous êtes tromper sur la taille, ça peut faire mal ...");
+        console.log("ERREUR: Vous vous êtes trompé sur la taille, ça peut faire mal ...");
         return;
     }
 } catch (e) {
