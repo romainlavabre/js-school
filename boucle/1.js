@@ -1,32 +1,22 @@
 // J'apprends les boucles
 
-// Stockez dans la variable "result" la phrase :
-// "Je peux sortir mais je vais mourir de chaud" si il fait soleil
-// "Je peux sortir mais je vais être mouiller" si il pleut
-// Le tout en fonction de la variable "ilFaitSoleil".
-// ATTENTION : Passer la valeur de la variable "ilFaitSoleil"
-// à "true" puis "false" pour tester l'intégralité de l'exercice sans modifier votre code source.
-const ilFaitSoleil = true; // Modifiez cette valeur lors des tests
+// Faites 10 tours de boucle, juste pour le fun ...
+// À chaque tour de boucle ajouter 1 à la variable "numberOfTurns"
+let numberOfTurns = 0;
 // ============================= CODEZ ICI ================================
 
 
 // =========================================================================
 // NE PAS TOUCHER
 
-
-try {
-    if (ilFaitSoleil && result !== "Je peux sortir mais je vais mourir de chaud") {
-        console.log("ERREUR: Lorsqu'il fait beau, vous n'avez aucune chance d'être mouillé, a moins qu'un pigeon vous chie dessus");
-        return;
-    }
-
-    if (!ilFaitSoleil && result !== "Je peux sortir mais je vais être mouiller") {
-        console.log("ERREUR: Lorsqu'il fait pleut, vous serez forcément mouillé");
-        return;
-    }
-} catch (e) {
-    console.log("ERREUR: Vous n'avez pas déclaré la variable result");
+if (numberOfTurns === 0) {
+    console.log("ERREUR: Vous n'avez pas fait de tour de boucle");
     return;
 }
 
-console.log("Félicitation !!!");
+if (numberOfTurns !== 10) {
+    console.log("ERREUR: Vous avez fait " + numberOfTurns + " tours de boucle, pas 10 !");
+    return;
+}
+
+console.log("Félicitation !!! https://youtu.be/F3wpq-i150c?t=64");
