@@ -1,9 +1,9 @@
 // J'apprends à prendre des décisions de façon conditionnelle
 
 // Creez une fonction nommée "result" et prenant un argument
-// Si l'argument est égale à "rudolf", retournez "Allemand"
-// Si l'argument est égale à "bellini", retournez "Sicilien"
-// Si l'argument est égale à "evan", retournez "Espagnol"
+// Si l'argument est égale à "rudolf" ou "olivier", retournez "Allemand"
+// Si l'argument est égale à "bellini" ou "layla", retournez "Sicilien"
+// Si l'argument est égale à "evan" ou "romain", retournez "Espagnol"
 
 // ============================= CODEZ ICI ================================
 
@@ -18,13 +18,28 @@ try {
         return;
     }
 
+    if (result("olivier") !== "Allemand") {
+        console.log("ERREUR: Votre fonction retourne " + result("olivier") + " pour la valeur olivier");
+        return;
+    }
+
     if (result("bellini") !== "Sicilien") {
         console.log("ERREUR: Votre fonction retourne " + result("bellini") + " pour la valeur bellini");
         return;
     }
 
+    if (result("layla") !== "Sicilien") {
+        console.log("ERREUR: Votre fonction retourne " + result("layla") + " pour la valeur layla");
+        return;
+    }
+
     if (result("evan") !== "Espagnol") {
         console.log("ERREUR: Votre fonction retourne " + result("evan") + " pour la valeur evan");
+        return;
+    }
+
+    if (result("romain") !== "Espagnol") {
+        console.log("ERREUR: Votre fonction retourne " + result("romain") + " pour la valeur romain");
         return;
     }
 } catch (e) {
