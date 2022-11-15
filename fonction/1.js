@@ -1,4 +1,4 @@
-// J'apprends à prendre des décisions de façon conditionnelle
+// J'apprends les fonctions
 
 // Créez une fonction nommée "result" qui retourne 256
 
