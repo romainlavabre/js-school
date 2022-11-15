@@ -1,12 +1,12 @@
 // J'apprend à déclarer une variable
 
 // Déclarez et initialisez les variables comme mentionné ci-dessous
-// nommée var1 avec pour type string
-// nommée var2 avec pour type boolean
-// nommée var3 avec pour type integer (nombre entier)
-// nommée var4 avec pour type float (nombre décimal)
-// nommée var5 avec pour type tableau
-// nommée var6 avec pour type objet
+// Déclarez "var1" avec pour type string
+// Déclarez "var2" avec pour type boolean
+// Déclarez "var3" avec pour type integer (nombre entier)
+// Déclarez "var4" avec pour type float (nombre décimal)
+// Déclarez "var5" avec pour type tableau
+// Déclarez "var6" avec pour type objet
 
 // ============================= CODEZ ICI ================================
 
