@@ -2,6 +2,7 @@
 
 // Reprenez les variables de l'exercice 1
 // Sans toucher à leur déclaration initiale, donnez leur une nouvelle valeur
+// Demandez une vérification avant de poursuivre
 
 // ============================= CODEZ ICI ================================
 
