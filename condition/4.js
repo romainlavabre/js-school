@@ -1,9 +1,9 @@
 // J'apprends à prendre des décisions de façon conditionnelle
 
 // Creez une fonction nommée "result" et prenant un argument
-// Si l'argument est égale à "rudolf" ou "olivier", retournez "Allemand"
-// Si l'argument est égale à "bellini" ou "layla", retournez "Sicilien"
-// Si l'argument est égale à "evan" ou "romain", retournez "Espagnol"
+// Si l'argument est égale à "rudolf" OU "olivier", retournez "Allemand"
+// Si l'argument est égale à "bellini" OU "layla", retournez "Sicilien"
+// Si l'argument est égale à "evan" OU "romain", retournez "Espagnol"
 
 // ============================= CODEZ ICI ================================
 
