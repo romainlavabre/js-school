@@ -3,6 +3,7 @@
 - Variable
 - Concatenation
 - Tableau
+- String
 - Fonction
 - Condition
 
