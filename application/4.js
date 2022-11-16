@@ -16,7 +16,7 @@ try {
 
     for (let i = 0; i < res.length; i++) {
         if (res[i].match("[A-Z]+")) {
-            console.log("Le mot \"" + res[i] + "\" contient encore des majuscules");
+            console.log("ERREUR: Le mot \"" + res[i] + "\" contient encore des majuscules");
             return;
         }
     }
