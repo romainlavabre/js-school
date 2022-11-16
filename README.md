@@ -7,5 +7,6 @@
 - Fonction
 - Condition
 - Boucle
+- Application
 
 !!! Faites les exercices dans l'ordre
