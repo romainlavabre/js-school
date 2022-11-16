@@ -6,8 +6,7 @@
 // NE PAS TOUCHER
 const myArray = ["string", "boolean", "array", "object", "integer", "float"];
 // ============================= CODEZ ICI ================================
-myArray[2] = "object";
-myArray[3] = "array";
+
 
 // =========================================================================
 // NE PAS TOUCHER
