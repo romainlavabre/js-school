@@ -1,6 +1,7 @@
 // J'apprends les fonctions
 
 // Créez une fonction nommée "result" qui prend quatre arguments et les additionne
+// Retournez le resultat
 // Les quatre arguments seront des nombres (integer ou float)
 
 // ============================= CODEZ ICI ================================
