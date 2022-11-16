@@ -3,7 +3,7 @@
 // Créez une fonction nommée "result" qui prend un argument
 // Cet argument contiendra un boolean contenant true si il fait beau, false sinon
 // Si il fait beau, retournez la constante "ilFaitBeau", mais en majuscule
-// Sinon retournez la constante "lPleut", mais en majuscule
+// Sinon retournez la constante "ilPleut", mais en majuscule
 
 const ilFaitBeau = "Il fAit Beau";
 const ilPleut = "Il Pleut";
