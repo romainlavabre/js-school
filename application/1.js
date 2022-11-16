@@ -1,4 +1,4 @@
-// Je rassemble toute mes compétance pour créer un programme complet
+// Je rassemble toute mes competences pour créer un programme complet
 
 // Créez une fonction nommée "result" qui prend un argument
 // Cet argument contiendra un tableau de string
@@ -6,17 +6,6 @@
 
 // ============================= CODEZ ICI ================================
 
-function result(arg) {
-    let counter = 0;
-
-    for (let i = 0; i < arg.length; i++) {
-        if (arg[i] === "array") {
-            counter++;
-        }
-    }
-
-    return counter;
-}
 
 // ========================================================================
 // NE PAS TOUCHER
